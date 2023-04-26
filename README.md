@@ -49,5 +49,10 @@ Please refer to license in the repo
 ## Github
 https://dukelurkin.github.io/employeeTracker
 
+## Demo Video
+
+https://drive.google.com/file/d/1a2c2Z0e6zi-cWLs_qQYiE_hZH8KsUuPx/viewLinks
+
+
 ## Image
 ![image](./employeeTrackerScreenShot.png)
